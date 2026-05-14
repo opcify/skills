@@ -1,0 +1,13 @@
+{
+  "ownerId": "opcify",
+  "slug": "quotation",
+  "version": "1.0.0",
+  "publishedAt": 1766070000000,
+  "managed": {
+    "tier": "general",
+    "alwaysOn": true,
+    "label": "Quotation",
+    "emoji": "📄",
+    "description": "Draft, send, and convert quotes. One command end-to-end — client capture, email, shareable link, PDF, and invoice conversion."
+  }
+}

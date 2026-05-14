@@ -1,0 +1,14 @@
+{
+  "ownerId": "opcify",
+  "slug": "yahoo-finance",
+  "version": "2.0.0",
+  "publishedAt": 1769694296993,
+  "managed": {
+    "tier": "template-scoped",
+    "templateScopes": ["investing_trading_firm"],
+    "alwaysOn": false,
+    "label": "Yahoo Finance",
+    "emoji": "\ud83d\udcc8",
+    "description": "Stock quotes, OHLCV history, technical indicators, financials, options, and analyst data"
+  }
+}

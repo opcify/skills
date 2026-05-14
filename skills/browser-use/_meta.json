@@ -1,0 +1,13 @@
+{
+  "ownerId": "kn71fxj97n86164tdd84bymp3n7zypxq",
+  "slug": "browser-use",
+  "version": "2.0.0",
+  "publishedAt": 1774158611795,
+  "managed": {
+    "tier": "general",
+    "alwaysOn": true,
+    "label": "Browser Automation",
+    "emoji": "\ud83c\udf10",
+    "description": "Web browsing, form filling, screenshots, and data extraction"
+  }
+}

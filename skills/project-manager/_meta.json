@@ -1,0 +1,12 @@
+{
+  "ownerId": "opcify",
+  "slug": "project-manager",
+  "version": "1.0.0",
+  "publishedAt": 1777000000000,
+  "managed": {
+    "tier": "general",
+    "alwaysOn": true,
+    "label": "Project Manager",
+    "description": "Closed-loop project orchestrator. Plan creation (interactive Q&A or self-evaluating refiner), task dispatch, monitoring with proactive triggers, idea-update plan diffs, paste-in context extraction with prompt-injection isolation, adaptive memory across projects."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ownerId": "opcify",
+  "slug": "opcify-pdf",
+  "version": "1.0.0",
+  "publishedAt": 1769694296993,
+  "managed": {
+    "tier": "general",
+    "alwaysOn": false,
+    "label": "PDF Documents",
+    "emoji": "\ud83d\udcc4",
+    "description": "PDF generation, form filling, and reformatting"
+  }
+}

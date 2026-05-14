@@ -1,0 +1,13 @@
+{
+  "ownerId": "opcify",
+  "slug": "opcify",
+  "version": "1.0.0",
+  "publishedAt": 1769694296993,
+  "managed": {
+    "tier": "general",
+    "alwaysOn": true,
+    "label": "Opcify",
+    "emoji": "\u2699\ufe0f",
+    "description": "Task management & API callbacks. Reports status and results back to Opcify."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ownerId": "opcify",
+  "slug": "web-search",
+  "version": "1.0.0",
+  "publishedAt": 1769673454302,
+  "managed": {
+    "tier": "general",
+    "alwaysOn": false,
+    "label": "Web Search",
+    "emoji": "🔎",
+    "description": "DuckDuckGo-powered web, news, image, and video search with text/markdown/JSON output"
+  }
+}
