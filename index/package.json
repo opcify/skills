@@ -1,0 +1,21 @@
+{
+  "name": "@opcify/skills",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "description": "Index manifest for the Opcify skills catalog. Content-free — actual skill files live in this repo's skills/ dir and are fetched by git tag.",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": ["index.js", "index.d.ts"],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opcify/skills.git"
+  },
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node --test build.test.mjs"
+  }
+}
