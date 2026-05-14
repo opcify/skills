@@ -1,0 +1,14 @@
+{
+  "ownerId": "opcify",
+  "slug": "alpha-vantage-findata",
+  "version": "0.1.0",
+  "publishedAt": 1775757951481,
+  "managed": {
+    "tier": "template-scoped",
+    "templateScopes": ["investing_trading_firm"],
+    "alwaysOn": false,
+    "label": "Alpha Vantage",
+    "emoji": "\ud83c\udf10",
+    "description": "Global stock quotes, OHLCV history, fundamentals, technical indicators, news + sentiment, FX, crypto, and macro data via Alpha Vantage's official REST API"
+  }
+}

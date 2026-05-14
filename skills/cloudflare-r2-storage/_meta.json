@@ -1,0 +1,13 @@
+{
+  "ownerId": "opcify",
+  "slug": "cloudflare-r2-storage",
+  "version": "0.1.0",
+  "publishedAt": 1775757951481,
+  "managed": {
+    "tier": "general",
+    "alwaysOn": false,
+    "label": "Cloudflare R2",
+    "emoji": "\ud83d\udd36",
+    "description": "Upload, download, list, and manage files in Cloudflare R2 buckets (S3-compatible, zero egress fees)"
+  }
+}

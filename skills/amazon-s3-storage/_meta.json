@@ -1,0 +1,13 @@
+{
+  "ownerId": "opcify",
+  "slug": "amazon-s3-storage",
+  "version": "0.1.0",
+  "publishedAt": 1775757951481,
+  "managed": {
+    "tier": "general",
+    "alwaysOn": false,
+    "label": "Amazon S3",
+    "emoji": "\ud83d\udce6",
+    "description": "Upload, download, list, and manage files in Amazon S3 buckets"
+  }
+}

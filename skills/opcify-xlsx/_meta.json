@@ -1,0 +1,13 @@
+{
+  "ownerId": "opcify",
+  "slug": "opcify-xlsx",
+  "version": "1.0.0",
+  "publishedAt": 1769694296993,
+  "managed": {
+    "tier": "general",
+    "alwaysOn": false,
+    "label": "Excel Spreadsheets",
+    "emoji": "\ud83d\udcca",
+    "description": "Excel create, read, analyze, edit, and validate"
+  }
+}

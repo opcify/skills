@@ -1,0 +1,13 @@
+{
+  "ownerId": "opcify",
+  "slug": "opcify-pptx",
+  "version": "1.0.0",
+  "publishedAt": 1769694296993,
+  "managed": {
+    "tier": "general",
+    "alwaysOn": false,
+    "label": "PowerPoint",
+    "emoji": "\ud83d\udcfd\ufe0f",
+    "description": "Presentation generation, editing, and reading"
+  }
+}

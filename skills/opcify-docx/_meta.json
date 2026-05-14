@@ -1,0 +1,13 @@
+{
+  "ownerId": "opcify",
+  "slug": "opcify-docx",
+  "version": "1.0.0",
+  "publishedAt": 1769694296993,
+  "managed": {
+    "tier": "general",
+    "alwaysOn": false,
+    "label": "DOCX Documents",
+    "emoji": "\ud83d\udcdd",
+    "description": "Word document creation, editing, and formatting"
+  }
+}
